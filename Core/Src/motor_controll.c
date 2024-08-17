@@ -9,6 +9,7 @@ extern u8 key;
 u8 Flag=0;
 u8 Flag1=0;
 u8 Flag2=0;
+u8 Flag3=0;
 
 
 void turn_left_forward()
